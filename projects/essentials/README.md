@@ -3,7 +3,9 @@
 This project is part of the Udemy course:  
 [The Complete Guide to Angular 2](https://www.udemy.com/course/the-complete-guide-to-angular-2)
 
----
+including the sections 1 and 2.
+
+--- 
 
 # 01StartingProject
 

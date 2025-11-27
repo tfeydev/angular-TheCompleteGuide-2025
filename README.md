@@ -1,3 +1,10 @@
+# Course Reference
+
+This project is follows the Udemy course:  
+[The Complete Guide to Angular 2](https://www.udemy.com/course/the-complete-guide-to-angular-2)
+
+---
+
 # MyWorkspace
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.0.
