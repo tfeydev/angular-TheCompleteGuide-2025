@@ -1,6 +1,9 @@
 # Course Reference
 
-This project is follows the Udemy course:  
+> 🧑‍🏫 This project is built while following the Udemy course:
+> **"Angular - The Complete Guide" by Max Schwarzmüller**  
+> Once my Udemy Impact account is active, I’ll add my affiliate link here. If you use it, you support my work at no extra cost. ❤️
+
 [The Complete Guide to Angular 2](https://www.udemy.com/course/the-complete-guide-to-angular-2)
 
 ---
